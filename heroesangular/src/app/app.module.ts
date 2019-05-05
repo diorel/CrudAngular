@@ -6,7 +6,7 @@ import { HttpModule } from '@angular/http';
 import { APP_ROUTING } from './app.routes';
 import { AppComponent } from './app.component';
 import { HeroesComponent } from './components/heroes/heroes.component';
-import { HeroeComponent } from './components/heroe.component';
+import { HeroeComponent } from './components/heroes/heroe.component';
 import { from } from 'rxjs';
 
 @NgModule({
